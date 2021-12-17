@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1619766632 source:c:\users\temp.ytit.000.001.002\desktop\paynet_dasturi\main.c
+	<Windows.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+
